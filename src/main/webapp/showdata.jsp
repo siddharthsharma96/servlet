@@ -7,7 +7,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body bgcolor="red">
+<body bgcolor="cyan">
   <%
   
   	data d1=(data)request.getAttribute("data");
