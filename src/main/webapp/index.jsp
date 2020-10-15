@@ -22,7 +22,7 @@
                 background-attachment: fixed;
                 min-height: 500px;
             }
-            .as{
+            .as{https://github.com/siddharthsharma96/servlet
                 font-size: larger;
                 color: black;
             }
@@ -65,7 +65,7 @@
                 <div class="col-lg-4 my-3">
                     <div class="card bg-primary text-center card-form">
                         <div class="card-body">
-                            <h3>Sign Up Today</h3>
+                            <h3>login</h3>
                             <p>Please fill out this form to register</p>
                             <form action="getdata">
                                 <div class="form-group">
