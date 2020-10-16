@@ -31,6 +31,6 @@ public class data {
 	}
 	@Override
 	public String toString() {
-		return "data [aid=" + aid + ", empname=" + empname + ", salary=" + salary + ", email=" + email + "]";
+		return "Id = " + aid + ", empname =  " + empname + ", salary =  " + salary + ", email  =  " + email ;
 	}
 }

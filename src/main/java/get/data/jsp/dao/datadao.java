@@ -13,7 +13,7 @@ public class datadao {
 	public data getData(int aid)
 	{
 		data a = new data();
-		String qry = "select * from genx.salary";
+		String qry = "select * from genx.salary where id="+aid;
 		try
 		{
 			Class.forName("com.mysql.jdbc.Driver");
